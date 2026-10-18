@@ -1,0 +1,14 @@
+/home/gift/Documents/TestProgram/bin/Debug/net10.0/TestProgram
+/home/gift/Documents/TestProgram/bin/Debug/net10.0/TestProgram.deps.json
+/home/gift/Documents/TestProgram/bin/Debug/net10.0/TestProgram.runtimeconfig.json
+/home/gift/Documents/TestProgram/bin/Debug/net10.0/TestProgram.dll
+/home/gift/Documents/TestProgram/bin/Debug/net10.0/TestProgram.pdb
+/home/gift/Documents/TestProgram/obj/Debug/net10.0/TestProgram.GeneratedMSBuildEditorConfig.editorconfig
+/home/gift/Documents/TestProgram/obj/Debug/net10.0/TestProgram.AssemblyInfoInputs.cache
+/home/gift/Documents/TestProgram/obj/Debug/net10.0/TestProgram.AssemblyInfo.cs
+/home/gift/Documents/TestProgram/obj/Debug/net10.0/TestProgram.csproj.CoreCompileInputs.cache
+/home/gift/Documents/TestProgram/obj/Debug/net10.0/TestProgram.dll
+/home/gift/Documents/TestProgram/obj/Debug/net10.0/refint/TestProgram.dll
+/home/gift/Documents/TestProgram/obj/Debug/net10.0/TestProgram.pdb
+/home/gift/Documents/TestProgram/obj/Debug/net10.0/TestProgram.genruntimeconfig.cache
+/home/gift/Documents/TestProgram/obj/Debug/net10.0/ref/TestProgram.dll
